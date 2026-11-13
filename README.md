@@ -3,6 +3,9 @@
 Free mods for **Avatar: Frontiers of Pandora**, and the program that looks after them. This page is where they are
 released. You install only the mods you want; each one works on its own. More mods will be added here.
 
+**Status:** in development. There is no release yet; the first one appears on the Releases page when the mods are
+polished.
+
 ## The mods
 
 | Mod | What it adds | Download |
