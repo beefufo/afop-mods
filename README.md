@@ -15,12 +15,19 @@ polished.
 | **Meveyk's Create a Campfire Mod** | Build a campfire anywhere, rest or sleep at it, let time pass, stomp it out. | `Meveyk-CreateACampfire.zip` |
 | **Meveyk's Immersive Tablet Mod** | The on-screen display moves onto a tablet the character holds: compass, objective, scanner, Hunter's Guide. | `Meveyk-ImmersiveTablet.zip` |
 | **Meveyk's Aim Mod** | Raise the rifle to the eye and aim down its sights. | `Meveyk-Aim.zip` |
+| **Setup** | Installs any of the mods above without unzipping. | `MeveykSetup.exe` |
 | **Meveyk's Mod Manager, online edition** | Optional. Replaces the offline Mod Manager that comes with the Posing & Creative Suite. | `Meveyk-ModManager-Online.zip` |
 
 All downloads are on the [Releases](../../releases) page. The newest release lists every mod with its version; a
 release that changes one mod holds only that mod's zip.
 
 ## Install
+
+The easy way: download **MeveykSetup.exe**, start it, and press Install. It finds the game folder, checks that the
+mod loader is there, lets you switch each mod on or off, and can undo the install. It never connects to the
+internet. Windows may warn about it on first run, because the program is not signed.
+
+By hand:
 
 1. Install the **Universal Snowdrop Modloader** by Patrick Mollohan from its Nexus Mods page. It is not included
    here.
